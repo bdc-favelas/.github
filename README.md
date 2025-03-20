@@ -13,7 +13,7 @@ This work is supported by the Wellcome Trust grant number 224694/Z/21/Z.
 
 - Fabiana Zioti Vieira
 [![GitHub Badge](https://img.shields.io/badge/-fabianazioti-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/fabianazioti)
-[![Gmail Badge](https://img.shields.io/badge/-adelinemaciel22@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=fabi.zioti@gmail.com)](mailto:fabi.zioti@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-fabi.zioti@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=fabi.zioti@gmail.com)](mailto:fabi.zioti@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Fabiana_Zioti_Vieira-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabianazioti/)](https://www.linkedin.com/in/fabianazioti/)
 [![Orcid Badge](https://img.shields.io/badge/-Fabiana_Zioti_Vieira-green?style=flat&logo=Orcid&logoColor=white&link=https://orcid.org/0000-0002-1467-6488)](https://orcid.org/0000-0002-1467-6488)
 
