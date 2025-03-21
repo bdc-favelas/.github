@@ -3,19 +3,19 @@
 ---
 
 ### About us:
-This work is part of the [Harmonize Project](https://www.harmonize-tools.org). Harmonizing multi-scale spatiotemporal data for health in climate change hotspots. Harmonize is a project in partnership with the Health and Climate Observatory and several international partners, including the Barcelona Supercomputing Center (BSC). The project’s objective is to collect, organize and analyze multi-scale spatiotemporal data for health in climate hotspots. 
+This work is part of the BDC-Favelas under [CEFAVELAS]([https://cefavela.ufabc.edu.br/]). CEFAVELA conducts research, training, technology transfer and dissemination of knowledge to society about favelas, in conjunction with various institutions, movements and organizations committed to the territorial agenda of favelas.
 
-The Earth Observation Data Cube tuned for Health Response Systems (EODCtHRS) component is based on the integration and interoperability between specific sets of attention data (climate reanalysis, forecast, socioeconomic, demographic, health, disease surveillance data and drone images) and digital infrastructure of the Brazil Data Cube (BDC) Project of the National Institute for Space Research (INPE), in particular with the Earth Observation datasets of Brazil. 
+The BDC-FAVELAS component object is Design, implement, customize, test, and document BDC computing platform services to integrate at BDC-Favelas as an instance of the BDC Brazil Data Cube Platform.
 
-This work is supported by the Wellcome Trust grant number 224694/Z/21/Z.
+This work is supported by the FAPESP grant number 2024/17361-0.
 
 ### Connect with us:
 
 - Fabiana Zioti Vieira
 [![GitHub Badge](https://img.shields.io/badge/-fabianazioti-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/fabianazioti)
-[![Gmail Badge](https://img.shields.io/badge/-fabi.zioti@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=fabi.zioti@gmail.com)](mailto:fabi.zioti@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-fabiana.zioti@inpe.br-c14438?style=flat&logo=Gmail&logoColor=white&link=fabiana.zioti@inpe.br)](mailto:fabiana.zioti@inpe.br)
 [![Linkedin Badge](https://img.shields.io/badge/-Fabiana_Zioti_Vieira-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fabianazioti/)](https://www.linkedin.com/in/fabianazioti/)
-[![Orcid Badge](https://img.shields.io/badge/-Fabiana_Zioti_Vieira-green?style=flat&logo=Orcid&logoColor=white&link=https://orcid.org/0000-0002-1467-6488)](https://orcid.org/0000-0002-1467-6488)
+[![Orcid Badge](https://img.shields.io/badge/-Fabiana_Zioti_Vieira-green?style=flat&logo=Orcid&logoColor=white&link=https://orcid.org/0000-0002-7305-6043)](https://orcid.org/0000-0002-7305-6043)
 
 - Gabriel Sansigolo
 [![GitHub Badge](https://img.shields.io/badge/-GSansigolo-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/GSansigolo)
